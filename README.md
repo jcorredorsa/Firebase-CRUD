@@ -45,6 +45,11 @@
 
 <img width="311" height="64" alt="image" src="https://github.com/user-attachments/assets/292b8e7e-2aee-4b63-a9b9-ad52f0065fa4" />
 
+# Que pasa si poner mal el código al retirar:
+
+<img width="252" height="41" alt="image" src="https://github.com/user-attachments/assets/033f542d-56c5-4288-bff7-eef5209417c4" />
+
+
 
 
 
