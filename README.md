@@ -1,4 +1,10 @@
 # Firebase-CRUD
+# Objetivo de la práctica:
+-Realizar todas las operaciones de una DB
+
+-Entregar un repo y readme con evidencia del funcionamiento y configuraciones
+
+-Entender cada línea del código
 
 # Comandos Dsponibles:
 d <monto>          -> Depositar
