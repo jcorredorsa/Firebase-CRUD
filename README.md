@@ -1,5 +1,5 @@
-# Firebase-CRUD
-# Objetivo de la práctica:
+# Firebase-CRUD- Juan Sebastián Corredor Sáenz
+# Objetivos de la práctica:
 -Realizar todas las operaciones de una DB
 
 -Entregar un repo y readme con evidencia del funcionamiento y configuraciones
