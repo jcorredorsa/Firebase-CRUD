@@ -2,13 +2,21 @@
 
 # Comandos Dsponibles:
 d <monto>          -> Depositar
+
 r <monto> <pin>    -> Retirar
+
 new <num> <titular> <pin> -> Crear nueva cuenta
+
 save               -> Guardar en Firebase
+
 load <num>         -> Cargar cuenta
+
 del <num>          -> Eliminar cuenta
+
 list               -> Listar cuentas
+
 h                  -> Ayuda
+
 q                  -> Salir
 
 # q:
